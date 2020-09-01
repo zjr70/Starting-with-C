@@ -1,1 +1,1 @@
-![alt text](http://donnemartin.com/wp-content/upload
+![alt text](http://donnemartin.com/wp-content/uploads/
