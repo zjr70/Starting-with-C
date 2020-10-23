@@ -3,4 +3,4 @@
 poker
 ============
 
-Pok
+Poke
