@@ -3,4 +3,4 @@
 poker
 ============
 
-Poker han
+Poker hand 
