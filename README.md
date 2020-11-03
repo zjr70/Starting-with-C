@@ -3,4 +3,4 @@
 poker
 ============
 
-Poker hand ra
+Poker hand rank
