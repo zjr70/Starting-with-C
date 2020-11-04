@@ -3,4 +3,4 @@
 poker
 ============
 
-Poker hand rank
+Poker hand ranke
