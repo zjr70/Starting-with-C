@@ -3,4 +3,4 @@
 poker
 ============
 
-Poker hand ranker wr
+Poker hand ranker wri
