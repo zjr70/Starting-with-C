@@ -3,4 +3,4 @@
 poker
 ============
 
-Poker hand ranker written in C
+Poker hand ranker written in C+
