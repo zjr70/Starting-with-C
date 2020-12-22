@@ -5,4 +5,4 @@ poker
 
 Poker hand ranker written in C++.
 
-##Lic
+##Lice
