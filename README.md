@@ -7,4 +7,4 @@ Poker hand ranker written in C++.
 
 ##License
 
-    Copyright
+    Copyright 2
