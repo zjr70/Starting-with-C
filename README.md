@@ -9,4 +9,4 @@ Poker hand ranker written in C++.
 
     Copyright 2014 Donne Martin
 
-    Licensed under t
+    Licensed under th
