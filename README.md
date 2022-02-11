@@ -15,4 +15,4 @@ Poker hand ranker written in C++.
 
        http://www.apache.org/licenses/LICENSE-2.0
 
-    Unless required b
+    Unless required by 
