@@ -16,4 +16,4 @@ Poker hand ranker written in C++.
        http://www.apache.org/licenses/LICENSE-2.0
 
     Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "A
+    distributed under the License is distributed on an "AS 
