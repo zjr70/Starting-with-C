@@ -22,3 +22,4 @@ Poker hand ranker written in C++.
     limitations under the License.
 
 ##Ranked Hands
+
