@@ -23,4 +23,4 @@ Poker hand ranker written in C++.
 
 ##Ranked Hands
 
-Uses the set of hands from ht
+Uses the set of hands from htt
