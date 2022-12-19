@@ -23,4 +23,4 @@ Poker hand ranker written in C++.
 
 ##Ranked Hands
 
-Uses the set of hands from http://en.wikipedia.org/wiki/Hand_rankings to demonstrate its functionality
+Uses the set of hands from http://en.wikipedia.org/wiki/Hand_rankings to demonstrate its functionality:
